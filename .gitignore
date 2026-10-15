@@ -1,0 +1,16 @@
+# macOS Finder detritus
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Xcode & Build products
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+
+# Temporary files
+*.swp
+*~
